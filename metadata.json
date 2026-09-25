@@ -1,0 +1,7 @@
+{
+  "name": "Absensi Siswa QR Code",
+  "description": "Aplikasi absensi siswa dengan QR Code scanner, database Google Sheets real-time, dan notifikasi ke orang tua.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
